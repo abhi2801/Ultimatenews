@@ -1,3 +1,5 @@
+**Project Description**
+
 We are trying to build a simple news app to show the latest news as well as news according to the categories provided by the api.
 we will build this project on Kotlin as backend language.
 we will use google recomended MVVM architecture pattern for simplicity .
