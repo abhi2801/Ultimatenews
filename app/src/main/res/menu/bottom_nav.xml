@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Breaking News"
+        android:id="@+id/mainFragment" android:icon="@drawable/breakingnews"
+        app:showAsAction="always"
+        />
+    <item android:title="Saved News"
+        android:id="@+id/savedNewsFragment" android:icon="@drawable/savednews"
+        app:showAsAction="always"
+        />
+    <item android:title="Source News"
+        android:id="@+id/sourceNewsFragment" android:icon="@drawable/sourcenews"
+        app:showAsAction="always"
+        />
+    <item android:title="Search News"
+        android:id="@+id/searchNewsFragment" android:icon="@drawable/searchews"
+        app:showAsAction="always"
+        />
+</menu>
